@@ -1,5 +1,9 @@
 # 🛡️ PhishGuard AI – Your First Line of Defense Against Fraudulent Emails
 
+
+![Homepage](./phishgurd.png.png)
+
+
 [Live Demo 🔗](https://phishguard-ai-defense.lovable.app)
 
 PhishGuard AI is a simple yet powerful web-based tool designed to help users detect **fraudulent, phishing, and spam emails** using AI-driven techniques. Paste any suspicious email content, and our system analyzes it to provide an instant safety check.
@@ -16,9 +20,13 @@ PhishGuard AI is a simple yet powerful web-based tool designed to help users det
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-![Screenshot](./screenshot.png) <!-- Add a real screenshot here -->
+### HOME PAGE
+![Email Input](./ss1.png.png)
+
+### DITECTOR
+![Result Display](./ss2.png.png)
 
 ---
 
